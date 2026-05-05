@@ -46,7 +46,7 @@ Several preprocessing steps were applied:
 
 ---
 
-## 📈 Evaluation Metrics
+## Evaluation Metrics
 
 Models were evaluated using:
 - Accuracy  
@@ -58,7 +58,7 @@ Models were evaluated using:
 
 ---
 
-## 🧠 Key Results
+## Key Results
 
 - **Random Forest** showed the most balanced performance across all metrics.  
 - **Neural Network (MLP)** achieved the highest accuracy but required more tuning and training time.  
@@ -67,7 +67,7 @@ Models were evaluated using:
 
 
 
-## 🚀 Features
+##  Features
 
 - Multiclass classification of weather conditions  
 - Comparison of multiple ML algorithms  
@@ -76,7 +76,7 @@ Models were evaluated using:
 - Real-time prediction interface  
 
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python  
 - NumPy, Pandas  
@@ -85,7 +85,7 @@ Models were evaluated using:
 - Matplotlib, Seaborn  
 - Jupyter Notebook  
 
-## ⚠️ Challenges
+## Challenges
 
 - Handling class imbalance in the dataset  
 - Tuning hyperparameters for different models  
